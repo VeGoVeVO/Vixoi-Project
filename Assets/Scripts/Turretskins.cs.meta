@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3b0b762dc9eea3a4ea315d8da34b8ab8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - turret: {instanceID: 0}
+  - turretfpannel: {instanceID: 0}
+  - turretpref: {instanceID: 0}
+  - turretfpannelpref: {instanceID: 0}
+  - turretrend: {instanceID: 0}
+  - turretfpannelrend: {instanceID: 0}
+  - turretprefrend: {instanceID: 0}
+  - turretfpannelprefrend: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
